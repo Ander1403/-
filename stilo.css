@@ -1,0 +1,136 @@
+body{
+	background-image: url("imagens1/corredeira.jpg");
+	 background-size: 100%;
+
+	
+	
+}
+
+#corpo{
+	width: 1100px;
+	margin:0 auto;
+			
+
+}
+#menu{
+	background-color: white;
+
+	height: 30px;
+	width: 40%;
+	display: block;
+	float: right;
+}
+
+#menu a{
+	display: block;
+	float: right;
+	padding: 7px 7px 7px 10px;
+	color: green;
+	font-family: italic;
+	text-decoration: none;
+	font-weight: bold;
+}
+#menu a:hover{
+
+	background-color: white;
+	border-top-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+}	
+#logo{
+	width: 250px;
+	float: left;
+	margin-top: 10px;
+}
+
+#baner{
+	width: 1057px;
+	border:12px solid white;
+	margin-top: 15px;
+	box-shadow: 0px 0px 5px black;
+	border-radius: 8px;
+}
+
+
+.bloco{
+	border-bottom: 1px solid navy;
+	background-color: white;
+	position:relative; right: 8px;
+	width: 530px;
+	height: 250px;
+	box-shadow: 0px 0px 5px black;
+	float: left;
+	margin: 10px;
+	border-radius: 8px;
+}
+
+.bloco h6{
+	    color: green;
+	    border-bottom: 2px solid black;
+		font-size: 20px; 	
+		margin:5px;
+		text-align: left;
+		text-shadow:1px 1px black;
+
+}
+
+.bloco p{
+	text-align: justify;
+	margin:10px;
+}
+
+#rodape{
+	background-color: white;
+	float:left;
+	width: 98.5%;
+	height: 300px;
+	background-size: 100% 100%;
+	border-radius: 9px;
+}
+
+#rodape img{
+	width: 120px;
+	height: 120px;
+	float: left;
+	margin-top:50px;
+	padding-left: 25px;
+	padding: 10px 45px 10px 45px;	
+
+}
+
+
+#rodape p{
+	text-align: left;
+	color:green;
+	font-family: verdana;
+	font-size: 20px;
+	text-shadow:1px 1px black;
+	border-bottom: 2px solid black;
+	
+}
+
+#cabeçalho{
+	
+	background-size: 100% 100%;
+	height: 240px;
+
+}
+h6{
+	text-align: left;
+	border-bottom: 2px solid black;
+	font-size: 40px;
+	color:green;
+	font-family: verdana; 
+	text-shadow:1px 1px black;
+}
+
+#fim{
+	background-color: white;
+	float:left;
+	width: 98.5%;
+	height: 50px;
+	background-size: 100% 100%;
+	border-radius: 9px;
+	text-align: center;
+	margin-top: 25px;
+
+}
